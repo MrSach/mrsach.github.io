@@ -1,0 +1,22 @@
+h1
+{
+	color: black;
+	text-align: center;
+	font-family: "Arial";
+	font-size: 16pt;
+}
+
+p
+{
+	color: black;
+	text-align: center;
+	font-family: "Arial";
+	font-size: 12pt;
+}
+
+.ribbon
+{
+	color: grey;
+	text-align: center;
+	font-family: "Arial";
+}
